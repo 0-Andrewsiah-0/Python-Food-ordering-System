@@ -1,0 +1,5 @@
+E001; Mineral Water; 1.50;
+E002; Coke; 2.50;
+E003; Sprite; 2.50;
+E004; Apple Juice; 5.50;
+E005; Orange Juice; 5.50;

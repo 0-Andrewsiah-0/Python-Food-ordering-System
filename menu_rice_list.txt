@@ -1,0 +1,6 @@
+D001; Fresh Fried Rice; 7.99;
+D002; Light Fried Rice; 7.99;
+D003; Vegetable Fried Rice; 7.75;
+D004; Shrimp Fried Rice; 9.75;
+D005; Teriyaki Bowl; 10.59;
+D006; House Special Fried Rice; 10.50;

@@ -1,0 +1,6 @@
+B001; Wonton Soup; 4.75;
+B002; Egg Drop Soup; 4.75;
+B003; Hot & Sour Soup; 2.20;
+B004; Vegetable Noodle Soup; 4.75;
+B005; House Special Soup; 5.75;
+B006; Chicken & Corn Soup; 6.50;
